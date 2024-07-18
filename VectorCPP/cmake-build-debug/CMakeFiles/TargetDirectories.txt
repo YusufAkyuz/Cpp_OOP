@@ -1,0 +1,3 @@
+/Users/yusufakyuz/CLionProjects/Cpp_Projects/VectorCPP/cmake-build-debug/CMakeFiles/VectorCPP.dir
+/Users/yusufakyuz/CLionProjects/Cpp_Projects/VectorCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yusufakyuz/CLionProjects/Cpp_Projects/VectorCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

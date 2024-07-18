@@ -1,0 +1,3 @@
+/Users/yusufakyuz/CLionProjects/Cpp_Projects/OOP8/cmake-build-debug/CMakeFiles/OOP8.dir
+/Users/yusufakyuz/CLionProjects/Cpp_Projects/OOP8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yusufakyuz/CLionProjects/Cpp_Projects/OOP8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
